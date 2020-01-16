@@ -29,4 +29,20 @@ _Note: Please keep in mind that the current SHOULD &amp; CAN requirements may al
 | G5     | MUST       | The digital video formats to be supported are: UHD/HD/SD.    |
 | G6     | MUST       | The DPI/DAI service components must provide all the non-proprietary interfaces commonly used in the media industry for connecting external ad management systems, but in any case they must provide the latest versions of VAST/VMAP. |
 
+## Return Path Data Reports
+
+| **ID** | **Status** | **Description** |
+| ------ | ---------- | --------------- |
+| D1     | MUST       |                 |
+|        |            |                 |
+
+
+
+## **Platform and Player SDK**   
+
+| **ID** | **Status** | **Description** |
+| ------ | ---------- | --------------- |
+| P1     | MUST       |                 |
+|        |            |                 |
+
 
