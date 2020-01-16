@@ -33,6 +33,6 @@ All industry participants who become aware of these documents are kindly invited
 | If you are missing an item in the requirement convention, something is unclear and requires better documentation or you have a better solution for a current requirement: Get Involved! |
 | **<a href='https://github.com/dpi2go/dpi2go.github.io/issues' class='btn btn-primary'>Raise an Issue </a> • <a href='https://github.com/dpi2go/dpi2go.github.io/pulls' class='btn btn-primary'>Open a Pull-Request</a>** |
 
-Note: Unfortunately, we cannot guarantee that no printing errors have occurred despite careful preparation and checking.
+_Note: Unfortunately, we cannot guarantee that no printing errors have occurred despite careful preparation and checking._
 
 
