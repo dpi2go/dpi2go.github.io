@@ -1,3 +1,14 @@
+##The DPI2GO Project Introduction!
+
+To generate a positive return on the Digital Program Insertion (DPI), the systems do not have just to be inexpensive and robust, but also have to be largely standards-based.
+
+To increase advertising revenue through regionalization and personalization, the systems must also be modular and flexible. 
+
+To maintain customer satisfaction, the network of systems must ensure the highest quality in both programs and advertising.
+
+The joint creation of harmonised and easily applicable requirement conventions by industry partners is intended to promote the practical implementation of Digital Program Insertion (DPI) in various markets with different cooperation partners and to ensure that expectations are met.
+
+
 ## Welcome to GitHub Pages
 
 You can use the [editor on GitHub](https://github.com/dpi2go/dpi2go.github.io/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
