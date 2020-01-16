@@ -1,4 +1,4 @@
-##The DPI2GO Project Introduction!
+## The DPI2GO Project Introduction!
 
 To generate a positive return on the Digital Program Insertion (DPI), the systems do not have just to be inexpensive and robust, but also have to be largely standards-based.
 
