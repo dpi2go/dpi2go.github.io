@@ -17,7 +17,7 @@ In order to secure a larger share of the spot advertising market, the ability to
 It is essential that channel operators and advertising marketers have the same access to digital program insertion functionality via all video playout and distribution platforms of their digital programs, linear & interactive . 
 
 This convention should help to simplify and accelerate the market-wide implementation of digital programme insertion functionality in different countries. 
-------
+
 |                            Join the “give to give” philosophy and drive more success for all!                            |
 | :----------------------------------------------------------: |
 ------
