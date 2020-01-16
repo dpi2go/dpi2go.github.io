@@ -20,7 +20,7 @@ This convention should help to simplify and accelerate the market-wide implement
 
 **Through Cooperative-Competition (Coopetition) to more success for all!**
 
-![DPI Landscape](dpi2go-overview.png)
+![DPI Landscape](DPI2GO-Overview.jpg)
 
 Although the documents presented here were primarily prepared as a binding supplement to the tendering procedures, they are also suitable for general agreement on the content of the requirements between industrial partners.
 
