@@ -1,4 +1,4 @@
-## The introduction to DPI2GO Initiative! 
+## The DPI2GO Convention at a glance! 
 
 To generate a positive return on the Digital Program Insertion (DPI), the systems do not have just to be inexpensive and robust, but also have to be largely standards-based.
 
