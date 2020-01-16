@@ -18,7 +18,7 @@ It is essential that channel operators and advertising marketers have the same a
 
 This convention should help to simplify and accelerate the market-wide implementation of digital programme insertion functionality in different countries. 
 
-### Approach: Through Cooperative-Competition (Coopetition) to more success for all!
+**Through Cooperative-Competition (Coopetition) to more success for all!**
 
 ![DPI Landscape](dpi2go-overview.png)
 
