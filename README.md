@@ -17,10 +17,10 @@ In order to secure a larger share of the spot advertising market, the ability to
 It is essential that channel operators and advertising marketers have the same access to digital program insertion functionality via all video playout and distribution platforms of their digital programs, linear & interactive . 
 
 This convention should help to simplify and accelerate the market-wide implementation of digital programme insertion functionality in different countries. 
-
+------
 |                            Join the “give to give” philosophy and drive more success for all!                            |
 | :----------------------------------------------------------: |
-
+------
 ![DPI Landscape](DPI2GO-Overview.jpg)
 
 Although the documents presented here were primarily prepared as a binding supplement to the tendering procedures, they are also suitable for general agreement on the content of the requirements between industrial partners.
