@@ -20,7 +20,18 @@ This convention should help to simplify and accelerate the market-wide implement
 
 ### Approach: Through Cooperative-Competition (Coopetition) to more success for all!
 
+![DPI Landscape](dpi2go-overview.png)
 
+Although the documents presented here were primarily prepared as a binding supplement to the tendering procedures, they are also suitable for general agreement on the content of the requirements between industrial partners.
+
+All industry participants who become aware of these documents are kindly invited to contact their customers and/or partners in order to discuss the synergy potential or to participate in the further development of the convention presented here.
+
+If we got your attention, head over to **[the requirement convention](https://github.com/dpi2go/dpi2go.github.io/blob/master/README.md)** or **[the repository.](https://github.com/dpi2go/dpi2go.github.io)**
+
+|                     How to get involved?                     |
+| :----------------------------------------------------------: |
+| If you are missing an item in the requirement convention, something is unclear and requires better documentation or you have a better solution for a current requirement: Get Involved! |
+| **<a href='https://github.com/dpi2go/dpi2go.github.io/issues' class='btn btn-primary'>Raise an Issue </a> • <a href='https://github.com/dpi2go/dpi2go.github.io/pulls' class='btn btn-primary'>Open a Pull-Request</a>** |
 
 
 
