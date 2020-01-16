@@ -8,6 +8,33 @@ To maintain customer satisfaction, the network of systems must ensure the highes
 
 The joint creation of harmonised and easily applicable requirement conventions by industry partners is intended to promote the practical implementation of Digital Program Insertion (DPI) in various markets with different cooperation partners and to ensure that expectations are met.
 
+One of the most important aspects in the video business is the correct and effective placement of advertising, whether at national, regional or individual level. 
+
+Placing advertising according to demand is a key component of any channel operator's business model. 
+
+In order to secure a larger share of the spot advertising market, the ability to place advertising in specific "zones", "clusters" or "personalized" is a key competitive advantage. For these reasons, digital program insertion (DPI) has quickly become an important part of the landscape. 
+
+It is essential that channel operators and advertising marketers have the same access to digital program insertion functionality via all video playout and distribution platforms of their digital programs, linear & interactive . 
+
+This convention should help to simplify and accelerate the market-wide implementation of digital programme insertion functionality in different countries. 
+
+### Approach: Through Cooperative-Competition (Coopetition) to more success for all!
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 ## Welcome to GitHub Pages
 
