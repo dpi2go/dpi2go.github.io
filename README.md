@@ -18,9 +18,9 @@ It is essential that channel operators and advertising marketers have the same a
 
 This convention should help to simplify and accelerate the market-wide implementation of digital programme insertion functionality in different countries. 
 
-**<p align="center">
+<p align="center">
   <b>Join the “give to give” philosophy and drive more success for all!</b><br>
-</p>**
+</p>
 
 ![DPI Landscape](DPI2GO-Overview.jpg)
 
@@ -29,11 +29,11 @@ Although the documents presented here were primarily prepared as a binding suppl
 All industry participants who become aware of these documents are kindly invited to contact their customers and/or partners in order to discuss the synergy potential or to participate in the further development of the convention presented here.
 
 **If we got your attention, head over to:** 
-**<p align="center">
+<p align="center">
   <b><a href="https://github.com/dpi2go/dpi2go.github.io/blob/master/DPI2GO%20Requirements%20Convention.md">The DPI2GO Requirements convention</a></b><br>
   <b>or</b><br>
   <b><a href="https://github.com/dpi2go/dpi2go.github.io">The DPI2GO Repository.</a></b><br>
-</p>**
+</p>
 
 |                     How to get involved?                     |
 | :----------------------------------------------------------: |
