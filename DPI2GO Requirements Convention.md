@@ -61,20 +61,34 @@ Example GET request:
 Example POST request:
 
 {
+
   "date_report": "2020-01-09",
+
   "date_processing": "2020-01-12",
+
   "DPI_report": [
-    {
-      "u_id": "158362161770246604f0db586-da65-41f4-93d0-6fa437e37ec7",
-      "total_unique_clients_1s": 192,
-      "total_unique_clients_5s": 184,
-      "total_unique_clients_50pct": 183,
-      "total_unique_clients_completed": 179,
-      "seconds_watched": 2923,
-      "unique_clients_by_second": "182,183,182,184,183,184,183,182,182,183,182,183,183,182,183,182"
-    }
+
+​    {
+
+​      "u_id": "158362161770246604f0db586-da65-41f4-93d0-6fa437e37ec7",
+
+​      "total_unique_clients_1s": 192,
+
+​      "total_unique_clients_5s": 184,
+
+​      "total_unique_clients_50pct": 183,
+
+​      "total_unique_clients_completed": 179,
+
+​      "seconds_watched": 2923,
+
+​      "unique_clients_by_second": "182,183,182,184,183,184,183,182,182,183,182,183,183,182,183,182"
+
+​    }
+
   ]
-`}``
+
+}
 
 
 ## **Platform and Player SDK**   
