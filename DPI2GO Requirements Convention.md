@@ -38,6 +38,35 @@ _Note: Please keep in mind that the current SHOULD &amp; CAN requirements may al
 | D3     | MUST       | Ad management platform must be able to receive a POST request to the REST API with RPD report data. |
 | D4     | MUST       | The POST contains of the following JSON formated report information for all channel for a specific date:<br />- u_id<br/>- total_unique_clients_1s: total number of unique clients who have seen minimum 1 second of the ad<br/>- total_unique_clients_5s: total number of unique clients who have seen minimum 5 second of the ad<br/>- total_unique_clients_completed: total number of unique clients who have seen the complete ad<br/>- seconds_watched: total seconds watched of the spot<br/>- unique_clients_by_second: array of second level unique clients for this ad |
 
+Example GET request:
+
+  {
+    "u_id": "161362261970146604f0db586-da65-41f4-93d0-6fa437e37ec7",
+    "c_id": 187014660,
+    "pl_id": "whateverTV",
+    "timestamp": "2020-12-09T09:33:25.0",
+    "duration": 16
+  }
+
+Example POST request:
+
+{
+  "date_report": "2020-01-09",
+  "date_processing": "2020-01-12",
+  "DPI_report": [
+    {
+      "u_id": "158362161770246604f0db586-da65-41f4-93d0-6fa437e37ec7",
+      "total_unique_clients_1s": 192,
+      "total_unique_clients_5s": 184,
+      "total_unique_clients_50pct": 183,
+      "total_unique_clients_completed": 179,
+      "seconds_watched": 2923,
+      "unique_clients_by_second": "182,183,182,184,183,184,183,182,182,183,182,183,183,182,183,182"
+    }
+  ]
+`}``
+
+
 ## **Platform and Player SDK**   
 
 | **ID** | **Status** | **Description**                                              |
