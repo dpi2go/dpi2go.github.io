@@ -39,7 +39,7 @@ _Note: Please keep in mind that the current SHOULD &amp; CAN requirements may al
 | D4     | MUST       | The POST contains of the following JSON formated report information for all channel for a specific date:<br />- u_id<br/>- total_unique_clients_1s: total number of unique clients who have seen minimum 1 second of the ad<br/>- total_unique_clients_5s: total number of unique clients who have seen minimum 5 second of the ad<br/>- total_unique_clients_completed: total number of unique clients who have seen the complete ad<br/>- seconds_watched: total seconds watched of the spot<br/>- unique_clients_by_second: array of second level unique clients for this ad |
 
 Example GET request:
-
+```
   {
 
 ​    "u_id": "161362261970146604f0db586-da65-41f4-93d0-6fa437e37ec7",
@@ -53,13 +53,13 @@ Example GET request:
 ​    "duration": 16
 
   }
-
+```
 
 
 
 
 Example POST request:
-
+```
 {
 
   "date_report": "2020-01-09",
@@ -89,7 +89,7 @@ Example POST request:
   ]
 
 }
-
+```
 
 ## **Platform and Player SDK**   
 
