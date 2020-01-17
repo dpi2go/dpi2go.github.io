@@ -26,25 +26,12 @@ Although the documents presented here were primarily prepared as a binding suppl
 
 All industry participants who become aware of these documents are kindly invited to contact their customers and/or partners in order to discuss the synergy potential or to participate in the further development of the convention presented here.
 
-### If we got your attention, head over to: 
-### - [The DPI2GO Requirements convention](https://github.com/dpi2go/dpi2go.github.io/blob/master/DPI2GO%20Requirements%20Convention.md) 
-**or** 
-### - [The DPI2GO Repository.](https://github.com/dpi2go/dpi2go.github.io)
-
+**If we got your attention, head over to:** 
 <p align="center">
   <b><a href="https://github.com/dpi2go/dpi2go.github.io/blob/master/DPI2GO%20Requirements%20Convention.md">The DPI2GO Requirements convention</a></b><br>
   <b>or</b><br>
   <b><a href="https://github.com/dpi2go/dpi2go.github.io">The DPI2GO Repository.</a></b><br>
 </p>
-
-
-
-
-
-
-
-
-
 
 |                     How to get involved?                     |
 | :----------------------------------------------------------: |
