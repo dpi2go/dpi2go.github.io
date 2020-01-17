@@ -42,9 +42,7 @@ _Note: Please keep in mind that the current SHOULD &amp; CAN requirements may al
 
 ## **Platform and Player SDK**   
 
-| **ID** | **Status** | **Description** |
-| ------ | ---------- | --------------- |
-| P1     | MUST       |                 |
-|        |            |                 |
-
+| **ID** | **Status** | **Description**                                              |
+| ------ | ---------- | ------------------------------------------------------------ |
+| P1     | MUST       | Provide SDK's for Interactive Media Ads for players on different platforms, such as Android, iOS, Linux, HTML5, etc. |
 
