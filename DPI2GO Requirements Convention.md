@@ -28,6 +28,7 @@ _Note: Please keep in mind that the current SHOULD &amp; CAN requirements may al
 | G4     | MUST       | The output TS of the DPI server, as the new "master TS", must correspond to the input TS quality and ensure that the subsequent transcoder can process all further signal formats for IPTV (incl. up/down scaling) and OTT profiles without interference. |
 | G5     | MUST       | The digital video formats to be supported are: UHD/HD/SD.    |
 | G6     | MUST       | The DPI/DAI service components must provide all the non-proprietary interfaces commonly used in the media industry for connecting external ad management systems, but in any case they must provide the latest versions of VAST/VMAP. |
+| G7     | MUST       | For VoD - based assets pre-, mid- and post-roll ad insertion must work. |
 
 ## Return Path Data Reports
 
