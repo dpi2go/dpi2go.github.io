@@ -31,6 +31,22 @@ All industry participants who become aware of these documents are kindly invited
 **or** 
 ### - [The DPI2GO Repository.](https://github.com/dpi2go/dpi2go.github.io)
 
+<p align="center">
+### <b>[The DPI2GO Requirements convention](https://github.com/dpi2go/dpi2go.github.io/blob/master/DPI2GO%20Requirements%20Convention.md)</b><br>
+**  <b>or</b><br>**
+### <b>[The DPI2GO Repository.](https://github.com/dpi2go/dpi2go.github.io)</b><br>
+</p>
+
+
+
+
+
+
+
+
+
+
+
 |                     How to get involved?                     |
 | :----------------------------------------------------------: |
 | If you are missing an item in the requirement convention, something is unclear and requires better documentation or you have a better solution for a current requirement: Get Involved! |
