@@ -42,7 +42,8 @@ Example GET request:
 
 [
   {
-    "u_id": "161362261970146604f0db586-da65-41f4-93d0-6fa437e37ec7",
+  
+   "u_id": "161362261970146604f0db586-da65-41f4-93d0-6fa437e37ec7",
     "c_id": 187014660,
     "pl_id": "whateverTV",
     "timestamp": "2020-12-09T09:33:25.0",
