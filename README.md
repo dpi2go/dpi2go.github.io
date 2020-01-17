@@ -20,8 +20,6 @@ This convention should help to simplify and accelerate the market-wide implement
 
 <h3 align="center">Join the “give to give” philosophy and drive more success for all!</h3>
 
-<p align="center"><h3>Join the “give to give” philosophy and drive more success for all!</h3><br></p>
-
 ![DPI Landscape](DPI2GO-Overview.jpg)
 
 Although the documents presented here were primarily prepared as a binding supplement to the tendering procedures, they are also suitable for general agreement on the content of the requirements between industrial partners.
@@ -30,7 +28,7 @@ All industry participants who become aware of these documents are kindly invited
 
 **If we got your attention, head over to:** 
 <p align="center">
-  <b><a href="https://github.com/dpi2go/dpi2go.github.io/blob/master/DPI2GO%20Requirements%20Convention.md">The DPI2GO Requirements convention</a></b><br>
+  <h3 aling="center"><a href="https://github.com/dpi2go/dpi2go.github.io/blob/master/DPI2GO%20Requirements%20Convention.md">The DPI2GO Requirements convention</a></h3><br>
   <b>or</b><br>
   <b><a href="https://github.com/dpi2go/dpi2go.github.io">The DPI2GO Repository.</a></b><br>
 </p>
