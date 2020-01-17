@@ -18,7 +18,9 @@ It is essential that channel operators and advertising marketers have the same a
 
 This convention should help to simplify and accelerate the market-wide implementation of digital programme insertion functionality in different countries. 
 
-<p align="center"><h2>Join the “give to give” philosophy and drive more success for all!</h2><br></p>
+<h3 align="center">Join the “give to give” philosophy and drive more success for all!</h3>
+
+<p align="center"><h3>Join the “give to give” philosophy and drive more success for all!</h3><br></p>
 
 ![DPI Landscape](DPI2GO-Overview.jpg)
 
