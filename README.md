@@ -32,10 +32,9 @@ All industry participants who become aware of these documents are kindly invited
 ### - [The DPI2GO Repository.](https://github.com/dpi2go/dpi2go.github.io)
 
 <p align="center">
-  <b>Some Links:</b><br>
-  <a href="#">Link 1</a><br>
-  <a href="#">Link 2</a><br>
-  <a href="#">Link 3</a><br>
+  <a href="https://github.com/dpi2go/dpi2go.github.io/blob/master/DPI2GO%20Requirements%20Convention.md">The DPI2GO Requirements convention</a><br>
+  <b>or</b><br>
+  <a href="https://github.com/dpi2go/dpi2go.github.io">The DPI2GO Repository.</a><br>
 </p>
 
 
