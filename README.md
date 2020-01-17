@@ -28,7 +28,7 @@ All industry participants who become aware of these documents are kindly invited
 
 **If we got your attention, head over to:** 
 <p align="center">
-  <h3 aling="center"><a href="https://github.com/dpi2go/dpi2go.github.io/blob/master/DPI2GO%20Requirements%20Convention.md">The DPI2GO Requirements convention</a></h3><br>
+  <h3 align="center"><a href="https://github.com/dpi2go/dpi2go.github.io/blob/master/DPI2GO%20Requirements%20Convention.md">The DPI2GO Requirements convention</a></h3><br>
   <b>or</b><br>
   <b><a href="https://github.com/dpi2go/dpi2go.github.io">The DPI2GO Repository.</a></b><br>
 </p>
