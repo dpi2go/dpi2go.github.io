@@ -38,11 +38,10 @@ _Note: Please keep in mind that the current SHOULD &amp; CAN requirements may al
 | D3     | MUST       | Ad management platform must be able to receive a POST request to the REST API with RPD report data. |
 | D4     | MUST       | The POST contains of the following JSON formated report information for all channel for a specific date:<br />- u_id<br/>- total_unique_clients_1s: total number of unique clients who have seen minimum 1 second of the ad<br/>- total_unique_clients_5s: total number of unique clients who have seen minimum 5 second of the ad<br/>- total_unique_clients_completed: total number of unique clients who have seen the complete ad<br/>- seconds_watched: total seconds watched of the spot<br/>- unique_clients_by_second: array of second level unique clients for this ad |
 
-
-
 ## **Platform and Player SDK**   
 
 | **ID** | **Status** | **Description**                                              |
 | ------ | ---------- | ------------------------------------------------------------ |
 | P1     | MUST       | Provide SDK's for Interactive Media Ads for players on different platforms, such as Android, iOS, Linux, HTML5, etc. |
+| P2     | MUST       | Provide SDKs for Interactive Media Ads for DPI/DAI servers so that apps can submit a stream request for advertising and content videos - either VOD or live content - and the SDK can respond with a combined video stream. Switching between ad and content video within the application is not required. |
 
