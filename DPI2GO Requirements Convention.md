@@ -69,8 +69,8 @@ https://www.example.com/index.html?day_of_interest=2020-12-09
 https://www.example.com/index.html
 
 {
-  "date_report": "2020-01-09",
-  "date_processing": "2020-01-12",
+  "date_report": "2020-12-09",
+  "date_processing": "2020-12-12",
   "DPI_report": [
     {
       "u_id": "158362161770246604f0db586-da65-41f4-93d0-6fa437e37ec7",
