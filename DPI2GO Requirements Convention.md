@@ -36,9 +36,9 @@ Digital TV playout platforms collect data from the set-top boxes of their subscr
 
 RPD is a passive measurement system. Passive means that the viewer does not have to provide any information.  He only has to watch TV via the set-top box to be measured.  The resulting number of viewers can be regarded as stable data in the sense that the same households are measured over a longer period of time.
 
-### RPD platform Report
+### RPD Platform Report
 
-The RPD platform Report includes system-wide information in absolute figures.
+The RPD Platform Report includes system-wide information in absolute figures.
 
 
 | **ID** | **Status** | **Description**                                              |
