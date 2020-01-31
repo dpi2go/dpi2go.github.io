@@ -45,20 +45,21 @@ _Note: Please keep in mind that the current SHOULD &amp; CAN requirements may al
 https://www.example.com/index.html?day_of_interest=2020-12-09
 
 [
-  {
-		"u_id": "161362261970146604f0db586-da65-41f4-93d0-6fa437e37ec7",
-		"c_id": 187014661,
-		"pl_id": "whateverTV",
-		"timestamp": "2020-12-09T09:33:25.0",
-		"duration": 16
-  },
-  {
-		"u_id": "161362261970146604f0db586-da65-xxx-93d0-6fa437e37ec7",
-		"c_id": 187014660,
-		"pl_id": "whateverTV",
-		"timestamp": "2020-12-09T09:43:25.0",
-		"duration": 16
-  },....
+  {
+    "u_id": "161362261970146604f0db586-da65-41f4-93d0-6fa437e37ec7",
+    "c_id": 187014661,
+    "pl_id": "whateverTV",
+    "timestamp": "2020-12-09T09:33:25.0",
+    "duration": 16
+  },
+  {
+    "u_id": "161362261970146604f0db586-da65-xxxx-93d0-6fa437e37ec7",
+    "c_id": 187014660,
+    "pl_id": "whateverTV",
+    "timestamp": "2020-12-09T09:43:25.0",
+    "duration": 16
+  },
+  ....
 ]
 ```
 
@@ -88,7 +89,8 @@ https://www.example.com/index.html
       "total_unique_clients_completed": 179,
       "seconds_watched": 2923,
       "unique_clients_by_second": "182,183,182,184,183,184,183,182,182,183,182,183,183,182,183,182"
-    }
+    },
+    ....
   ]
 }
 ```
