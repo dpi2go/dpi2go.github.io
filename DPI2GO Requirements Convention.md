@@ -32,6 +32,15 @@ _Note: Please keep in mind that the current SHOULD &amp; CAN requirements may al
 
 ## Return Path Data Reports
 
+Digital TV playout platforms collect data from the set-top boxes of their subscribers and can pass this information on to connected advertising management platforms for performance evaluation.  
+
+RPD is a passive measurement system. Passive means that the viewer does not have to provide any information.  He only has to watch TV via the set-top box to be measured.  The resulting number of viewers can be regarded as stable data in the sense that the same households are measured over a longer period of time.
+
+###RPD platform Report
+
+The RPD platform Report includes system-wide information in absolute figures.
+
+
 | **ID** | **Status** | **Description**                                              |
 | ------ | ---------- | ------------------------------------------------------------ |
 | D1     | MUST       | Ad management platform must provide REST API to enable reading ad break data for all channels for a specific date via GET request.<br /><br />The requested date is passed as a parameter in the GET request.<br/><br/>Label: "day_of_interest"<br/>Format: "YYYY-MM-DD" |
